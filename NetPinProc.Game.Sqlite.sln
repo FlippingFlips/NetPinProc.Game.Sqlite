@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetPinProc.Game.Sqlite", "src\NetPinProc.Game.Sqlite\NetPinProc.Game.Sqlite.csproj", "{86F1E26C-E9E1-4162-8F46-9A0256D2B85B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{61A44DBB-0C84-4850-A826-2FCEB3B9F148}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetPinProc.Game.Sqlite.Tests", "tests\NetPinProc.Game.Sqlite.Tests\NetPinProc.Game.Sqlite.Tests.csproj", "{CB4C2140-0950-446C-8064-D80C06E4DBBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86F1E26C-E9E1-4162-8F46-9A0256D2B85B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86F1E26C-E9E1-4162-8F46-9A0256D2B85B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86F1E26C-E9E1-4162-8F46-9A0256D2B85B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{86F1E26C-E9E1-4162-8F46-9A0256D2B85B}.Debug|x64.Build.0 = Debug|Any CPU
+		{86F1E26C-E9E1-4162-8F46-9A0256D2B85B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{86F1E26C-E9E1-4162-8F46-9A0256D2B85B}.Debug|x86.Build.0 = Debug|Any CPU
+		{86F1E26C-E9E1-4162-8F46-9A0256D2B85B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86F1E26C-E9E1-4162-8F46-9A0256D2B85B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86F1E26C-E9E1-4162-8F46-9A0256D2B85B}.Release|x64.ActiveCfg = Release|Any CPU
+		{86F1E26C-E9E1-4162-8F46-9A0256D2B85B}.Release|x64.Build.0 = Release|Any CPU
+		{86F1E26C-E9E1-4162-8F46-9A0256D2B85B}.Release|x86.ActiveCfg = Release|Any CPU
+		{86F1E26C-E9E1-4162-8F46-9A0256D2B85B}.Release|x86.Build.0 = Release|Any CPU
+		{CB4C2140-0950-446C-8064-D80C06E4DBBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB4C2140-0950-446C-8064-D80C06E4DBBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB4C2140-0950-446C-8064-D80C06E4DBBA}.Debug|x64.ActiveCfg = Debug|x64
+		{CB4C2140-0950-446C-8064-D80C06E4DBBA}.Debug|x64.Build.0 = Debug|x64
+		{CB4C2140-0950-446C-8064-D80C06E4DBBA}.Debug|x86.ActiveCfg = Debug|x86
+		{CB4C2140-0950-446C-8064-D80C06E4DBBA}.Debug|x86.Build.0 = Debug|x86
+		{CB4C2140-0950-446C-8064-D80C06E4DBBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB4C2140-0950-446C-8064-D80C06E4DBBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB4C2140-0950-446C-8064-D80C06E4DBBA}.Release|x64.ActiveCfg = Release|x64
+		{CB4C2140-0950-446C-8064-D80C06E4DBBA}.Release|x64.Build.0 = Release|x64
+		{CB4C2140-0950-446C-8064-D80C06E4DBBA}.Release|x86.ActiveCfg = Release|x86
+		{CB4C2140-0950-446C-8064-D80C06E4DBBA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CB4C2140-0950-446C-8064-D80C06E4DBBA} = {61A44DBB-0C84-4850-A826-2FCEB3B9F148}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37A63AA0-9134-419D-96F6-4AE8EC6DAE98}
+	EndGlobalSection
+EndGlobal
