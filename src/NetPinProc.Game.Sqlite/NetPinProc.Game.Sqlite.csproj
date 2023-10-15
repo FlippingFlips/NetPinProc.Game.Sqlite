@@ -4,7 +4,7 @@
 		<TargetFrameworks>net6.0;net7.0;</TargetFrameworks>
 		<Description>NetPinProc Game controller with Sqlite database for machine items, adjustments, players and scores etc</Description>
 		<Authors>Adam Preble, Jimmy Lipham, David Horsefield</Authors>
-		<VersionSuffix>1.0.1</VersionSuffix>
+		<VersionSuffix>1.0.2</VersionSuffix>
 		<PackageVersion>$(VersionSuffix)</PackageVersion>
 		<AssemblyVersion>$(VersionSuffix)</AssemblyVersion>
 		<FileVersion>$(VersionSuffix)</FileVersion>
